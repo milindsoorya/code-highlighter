@@ -1,0 +1,15 @@
+{
+  "name": "code-highlighter",
+  "version": "1.0.0",
+  "description": "A port of highlight.js written using functional components for using with react framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hightlight.js"
+  ],
+  "author": "milindsoorya",
+  "license": "ISC"
+}
