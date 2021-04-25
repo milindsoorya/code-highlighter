@@ -1,5 +1,5 @@
 {
-  "name": "code-highlighter",
+  "name": "highlight-code-blocks",
   "version": "1.0.0",
   "description": "A port of highlight.js written using functional components for using with react framework",
   "main": "index.js",
@@ -11,5 +11,8 @@
     "hightlight.js"
   ],
   "author": "milindsoorya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "highlight.js": "^10.7.2"
+  }
 }

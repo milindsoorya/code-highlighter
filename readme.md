@@ -1,23 +1,21 @@
-# code-highlighter
+# highlight-code-blocks
 
-code-highlighter is library aimed at react developers who want to implement highlight.js in their project.
+highlight-code-blocks is library aimed at react developers who want to implement highlight.js in their project.
 
 ## Installation
 
-Use the npm package manager to install code-highlighter.
+Use the npm package manager to install highlight-code-blocks.
 
 ```bash
-npm install code-highlighter
+npm install highlight-code-blocks
 ```
 
 ## Usage
 
-```python
-import CodeHighlighter from "code-highlighter"
+```javascript
+import CodeHighlighter from "highlight-code-blocks";
 
-<CodeHighlighter>
----code block as string---
-</CodeHighlighter>
+<CodeHighlighter>---code block as string---</CodeHighlighter>;
 ```
 
 ![Screenshot](public/example.png)
