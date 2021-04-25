@@ -2,22 +2,13 @@
 
 highlight-code-blocks is library aimed at react developers who want to implement highlight.js in their project.
 
-## Installation
-
-Use the npm package manager to install highlight-code-blocks.
-
-```bash
-npm install highlight-code-blocks
-```
+ 
 
 ## Usage
+ 
+I didnt get time to make this into a working package, please find the code in the index file. If ypu have any doubt please refer this site [milindsoorya.blog](https://www.milindsoorya.site/)
 
-```javascript
-import CodeHighlighter from "highlight-code-blocks";
-
-<CodeHighlighter>---code block as string---</CodeHighlighter>;
-```
-
+ 
 ![Screenshot](public/example.png)
 
 ## Contributing
